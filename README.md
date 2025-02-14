@@ -1,2 +1,2 @@
-# ia-propensity
-IA prop
+# ia-propensitY
+Primer caso de ia
